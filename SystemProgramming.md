@@ -509,3 +509,9 @@ Foo와 Hard Foo의 iNode number가 같다. inode에서의 공유가 발생
 
 Dup과는 반대
 ```
+
+![Alt text](./1.png)
+![Alt text](./2.png)
+![Alt text](./3.png)
+![Alt text](./4.png)
+![Alt text](./5.png)
